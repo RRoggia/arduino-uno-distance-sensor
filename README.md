@@ -1,6 +1,9 @@
 # Arduino Uno Distance Sensor
 Arduino uno project with a distance sensor
 
+### Libraries Required 
+* [Ultrasonic](https://github.com/JRodrigoTech/Ultrasonic-HC-SR04)
+
 ####This project is splited in two parts:
 
 1 - Distance Sensor implementation    
