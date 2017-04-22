@@ -4,16 +4,16 @@ Arduino uno project with a distance sensor
 ### Libraries Required 
 * [Ultrasonic](https://github.com/JRodrigoTech/Ultrasonic-HC-SR04)
 
-####This project is splited in two parts:
+#### This project is splited in two parts:
 
 1 - Distance Sensor implementation    
 2 - LEDs reaction to the distance
 
-####The implemantation is splitted in two branchs:
+#### The implemantation is splitted in two branchs:
 * [`distance-sensor`](https://github.com/RRoggia/arduino-uno-distance-sensor/tree/distance-sensor)
 * [`led-reaction`](https://github.com/RRoggia/arduino-uno-distance-sensor/tree/led-reaction)
 
-####Components used:
+#### Components used:
 * 1 Arduino Uno
 * 1 Distance Sensor 
 * 1 Red LED
